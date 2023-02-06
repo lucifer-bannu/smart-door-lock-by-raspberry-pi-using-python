@@ -1,0 +1,6 @@
+opencv-contrib-python
+pillow
+numpy
+panda
+imutils
+GPIOEmulator
